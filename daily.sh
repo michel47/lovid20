@@ -95,7 +95,7 @@ qmd=$(ipfs add -Q -w lovid.dat lovid.csv lovid.png)
 echo url: https://yoogle.com:8197/ipfs/$qmd
 rm lovid.yml
 # -------------------------
-echo "- \\[$date]: ${upgraded}/${cases}cases [$qm0](https://cloudflare-ipfs.com/ipfs/$qm0) [data](/ipfs/$qmd/lovid.dat),[csv](/ipfs/$qmd/lovid.csv)" >> lovid20u.md
+echo "- \\[$date]: ${upgraded}/${cases} cases [$qm0](https://cloudflare-ipfs.com/ipfs/$qm0) [data](/ipfs/$qmd/lovid.dat),[csv](/ipfs/$qmd/lovid.csv)" >> lovid20u.md
 grep -v '^- ' lovid20u.md > $mdfile
 grep '^- ' lovid20u.md | sort -r | uniq >> $mdfile
 # -------------------------
@@ -113,7 +113,7 @@ echo "gituser: $(git config user.name) <$(git config user.email)>"
 git add $mdfile lovid20u.md lovid.md lovid.dat lovid.csv lovid.png
 pwd
 cat > README.md <<EOF
-# README: Huminaty Love Upgrade daily status in Switzerland ...
+# README: Humanity Love Upgrade daily status in Switzerland ...
 
 ## on $(date +"%D %T") ([snapshot](https://ipfs.io/ipfs/$qm1))
 

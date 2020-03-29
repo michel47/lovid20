@@ -1,10 +1,10 @@
-# README: Huminaty Love Upgrade daily status in Switzerland ...
+# README: Humanity Love Upgrade daily status in Switzerland ...
 
-## on 03/29/20 05:54:12 ([snapshot](https://ipfs.io/ipfs/))
+## on 03/29/20 05:58:28 ([snapshot](https://ipfs.io/ipfs/))
 
  1530 souls have been upgraded with the LovID20 download
 
-last update : <https://ipfs.blockringtm.ml/ipfs/QmV6VwDvhWVSDwFNDkx4qLcSeMogioJG29oTwy49LduoJA/lovid20.html>
+last update : <https://ipfs.blockringtm.ml/ipfs/QmaDwGC6cSBHmPvGFzQ64rkhvZdU5PZL5MUmbYABSMVgJx/lovid20.html>
 
 <br>
 +Michel
@@ -34,7 +34,7 @@ sources:
   - <https://michel47.github.io/lovid20>
   - <https://github.com/michel47/lovid20>
   - <https://duckduckgo.com/?q=progression+lovid20>
-  - <https://gateway.ipfs.io/ipfs/QmUt3kGjnXodZAPGB32FApRBLeACR7vqQeUkekAZFMm8Kg>
+  - <https://gateway.ipfs.io/ipfs/QmUdPP8BSSpLF7ygZnCxQ4ktse5HsqQJgZWKy32ZKvZvJ1>
   - <https://gateway.ipfs.io/ipfs/>
-  - <https://gateway.ipfs.io/ipfs/QmV6VwDvhWVSDwFNDkx4qLcSeMogioJG29oTwy49LduoJA>
+  - <https://gateway.ipfs.io/ipfs/QmaDwGC6cSBHmPvGFzQ64rkhvZdU5PZL5MUmbYABSMVgJx>
   

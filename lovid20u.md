@@ -1,4 +1,5 @@
---- # lovid20 log
+## LOVID-20: Making Love Viral, (Humanity Love Progression Meter)
+
 - \[03/27/20]: 11207/12311cases [QmXt3DcddK4fYDAQrwfAmoge2m8Hvh1iP9gjnjGy9CCTEG](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](/ipfs/QmVmgH3tuDKMWtzGGBKCXTwasVf2C4PYMY9CYc4aG3L45g/lovid.yml),[csv](/ipfs/QmVmgH3tuDKMWtzGGBKCXTwasVf2C4PYMY9CYc4aG3L45g/lovid.csv)
 - \[03/27/20]: 897/12311cases [QmRCuYTc8KEdbHJdNu7tCjv1ndEYSzRD7FcsnnENTfXyY8](https://cloudflare-ipfs.com/ipfs/QmRCuYTc8KEdbHJdNu7tCjv1ndEYSzRD7FcsnnENTfXyY8) [data](/ipfs/QmPS93P1i9vnoMwgWFmjPZPzoNf7FRB18GBXdPQ9zW6PFw/lovid.yml),[csv](/ipfs/QmPS93P1i9vnoMwgWFmjPZPzoNf7FRB18GBXdPQ9zW6PFw/lovid.csv)
 - \[03/27/20]: 897/12311cases [QmNmGr5vgwyubmVJY7haNyVeW18oxypBzDJwYpV6Nyh6nB](https://cloudflare-ipfs.com/ipfs/QmNmGr5vgwyubmVJY7haNyVeW18oxypBzDJwYpV6Nyh6nB) [data](/ipfs/QmUKSCxyQdxo48SwpidbMA4dBfsZNiHXffJadWMZ3x459n/lovid.yml),[csv](/ipfs/QmUKSCxyQdxo48SwpidbMA4dBfsZNiHXffJadWMZ3x459n/lovid.csv)
@@ -9,3 +10,4 @@
 - \[03/29/20]: 1530/14076cases [QmYyAknq1Krav4RqBjW4UvxRJgpqqQs5c8swMwFBheLFTP](https://cloudflare-ipfs.com/ipfs/QmYyAknq1Krav4RqBjW4UvxRJgpqqQs5c8swMwFBheLFTP) [data](/ipfs/QmQMTwWznXAVKpVS32LPpp76NFoiiKt4wS5vWJiDTJTgh6/lovid.dat),[csv](/ipfs/QmQMTwWznXAVKpVS32LPpp76NFoiiKt4wS5vWJiDTJTgh6/lovid.csv)
 - \[03/29/20]: 1530/14076cases [QmeXj8duTeHaWQ7pFh6VD4H18FPEaYbk6TvC28nMarAMJZ](https://cloudflare-ipfs.com/ipfs/QmeXj8duTeHaWQ7pFh6VD4H18FPEaYbk6TvC28nMarAMJZ) [data](/ipfs/QmU2nvG9iUqYRojKjrLzWT2AKWW9XQ82Bbhx9Ge7rzbs9d/lovid.dat),[csv](/ipfs/QmU2nvG9iUqYRojKjrLzWT2AKWW9XQ82Bbhx9Ge7rzbs9d/lovid.csv)
 - \[03/29/20]: 1530/14076cases [QmUt3kGjnXodZAPGB32FApRBLeACR7vqQeUkekAZFMm8Kg](https://cloudflare-ipfs.com/ipfs/QmUt3kGjnXodZAPGB32FApRBLeACR7vqQeUkekAZFMm8Kg) [data](/ipfs/QmcHFLxUpUHwPSo46HFcT73Pd8dJw5hUkhG3anbee9srfi/lovid.dat),[csv](/ipfs/QmcHFLxUpUHwPSo46HFcT73Pd8dJw5hUkhG3anbee9srfi/lovid.csv)
+- \[03/29/20]: 1530/14076 cases [QmUdPP8BSSpLF7ygZnCxQ4ktse5HsqQJgZWKy32ZKvZvJ1](https://cloudflare-ipfs.com/ipfs/QmUdPP8BSSpLF7ygZnCxQ4ktse5HsqQJgZWKy32ZKvZvJ1) [data](/ipfs/QmfMWtLrxsGq9HMtV3UMU2V9tJef1zXjgMV9dPqMTYD7Kp/lovid.dat),[csv](/ipfs/QmfMWtLrxsGq9HMtV3UMU2V9tJef1zXjgMV9dPqMTYD7Kp/lovid.csv)

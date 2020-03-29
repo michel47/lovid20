@@ -1,6 +1,8 @@
---- # lovid20 log
+## LOVID-20: Making Love Viral, (Humanity Love Progression Meter)
+
 - \[03/29/20]: 1530/14076cases [QmYyAknq1Krav4RqBjW4UvxRJgpqqQs5c8swMwFBheLFTP](https://cloudflare-ipfs.com/ipfs/QmYyAknq1Krav4RqBjW4UvxRJgpqqQs5c8swMwFBheLFTP) [data](/ipfs/QmQMTwWznXAVKpVS32LPpp76NFoiiKt4wS5vWJiDTJTgh6/lovid.dat),[csv](/ipfs/QmQMTwWznXAVKpVS32LPpp76NFoiiKt4wS5vWJiDTJTgh6/lovid.csv)
 - \[03/29/20]: 1530/14076cases [QmUt3kGjnXodZAPGB32FApRBLeACR7vqQeUkekAZFMm8Kg](https://cloudflare-ipfs.com/ipfs/QmUt3kGjnXodZAPGB32FApRBLeACR7vqQeUkekAZFMm8Kg) [data](/ipfs/QmcHFLxUpUHwPSo46HFcT73Pd8dJw5hUkhG3anbee9srfi/lovid.dat),[csv](/ipfs/QmcHFLxUpUHwPSo46HFcT73Pd8dJw5hUkhG3anbee9srfi/lovid.csv)
+- \[03/29/20]: 1530/14076 cases [QmUdPP8BSSpLF7ygZnCxQ4ktse5HsqQJgZWKy32ZKvZvJ1](https://cloudflare-ipfs.com/ipfs/QmUdPP8BSSpLF7ygZnCxQ4ktse5HsqQJgZWKy32ZKvZvJ1) [data](/ipfs/QmfMWtLrxsGq9HMtV3UMU2V9tJef1zXjgMV9dPqMTYD7Kp/lovid.dat),[csv](/ipfs/QmfMWtLrxsGq9HMtV3UMU2V9tJef1zXjgMV9dPqMTYD7Kp/lovid.csv)
 - \[03/29/20]: 1530/14076cases [QmTBw9Eh1FkRGHe7LgJhxfpEvwzr1z1dycGvKSayWDCEPs](https://cloudflare-ipfs.com/ipfs/QmTBw9Eh1FkRGHe7LgJhxfpEvwzr1z1dycGvKSayWDCEPs) [data](/ipfs/QmaiRdAD1kGgvaPZn1BZHuSDAw8QnFwAm4Vh56op5x5owr/lovid.dat),[csv](/ipfs/QmaiRdAD1kGgvaPZn1BZHuSDAw8QnFwAm4Vh56op5x5owr/lovid.csv)
 - \[03/29/20]: 1530/14076cases [QmeXj8duTeHaWQ7pFh6VD4H18FPEaYbk6TvC28nMarAMJZ](https://cloudflare-ipfs.com/ipfs/QmeXj8duTeHaWQ7pFh6VD4H18FPEaYbk6TvC28nMarAMJZ) [data](/ipfs/QmU2nvG9iUqYRojKjrLzWT2AKWW9XQ82Bbhx9Ge7rzbs9d/lovid.dat),[csv](/ipfs/QmU2nvG9iUqYRojKjrLzWT2AKWW9XQ82Bbhx9Ge7rzbs9d/lovid.csv)
 - \[03/28/20]: 203/12928cases [QmWrAzqDNT32mYeiWew6UTdLqMj5QwDiXxJqYNU8Q6BGVy](https://cloudflare-ipfs.com/ipfs/QmWrAzqDNT32mYeiWew6UTdLqMj5QwDiXxJqYNU8Q6BGVy) [data](/ipfs/QmSzn5AuzsLJbVCF8f5wFfWoD5DdEN2g3RRFvuQFump5RS/lovid.dat),[csv](/ipfs/QmSzn5AuzsLJbVCF8f5wFfWoD5DdEN2g3RRFvuQFump5RS/lovid.csv)
