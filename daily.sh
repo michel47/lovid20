@@ -115,7 +115,7 @@ pwd
 cat > README.md <<EOF
 # README: Humanity Love Upgrade daily status in Switzerland ...
 
-## on $(date +"%D %T") ([snapshot](https://ipfs.io/ipfs/$qm1))
+## on $(date +"%D %T") ([snapshot](https://ipfs.io/ipfs/$qm))
 
  $upgraded souls have been upgraded with the LovID20 download
 
