@@ -1,10 +1,10 @@
 # README: Humanity Love Upgrade daily status in Switzerland ...
 
-## on 03/29/20 06:00:39 ([snapshot](https://ipfs.io/ipfs/QmZyR83Sw1xX4vG5v2G6sTgYYmtY8rQQBBYyy93zkK2YvM))
+## on 03/30/20 06:29:51 ([snapshot](https://ipfs.io/ipfs/QmVZT2ygJceoUeqo3aP7UkWhQezrngEkWdwqsEW3Vmg5aw))
 
- 1530 souls have been upgraded with the LovID20 download
+ 1595 souls have been upgraded with the LovID20 download
 
-last update : <https://ipfs.blockringtm.ml/ipfs/QmZyR83Sw1xX4vG5v2G6sTgYYmtY8rQQBBYyy93zkK2YvM/lovid20.html>
+last update : <https://ipfs.blockringtm.ml/ipfs/QmVZT2ygJceoUeqo3aP7UkWhQezrngEkWdwqsEW3Vmg5aw/lovid20.html>
 
 <br>
 +Michel
@@ -34,7 +34,7 @@ sources:
   - <https://michel47.github.io/lovid20>
   - <https://github.com/michel47/lovid20>
   - <https://duckduckgo.com/?q=progression+lovid20>
-  - <https://gateway.ipfs.io/ipfs/QmNrwXX9USAqTW1Nf3bTdFocbKV7nDUMgSJvZGT4B8D7tt>
+  - <https://gateway.ipfs.io/ipfs/QmWDfkPFok3HCLBMpa4JK893xPsRDpZu8XF8wsgEZ4gbzy>
   - <https://gateway.ipfs.io/ipfs/>
-  - <https://gateway.ipfs.io/ipfs/QmZyR83Sw1xX4vG5v2G6sTgYYmtY8rQQBBYyy93zkK2YvM>
+  - <https://gateway.ipfs.io/ipfs/QmVZT2ygJceoUeqo3aP7UkWhQezrngEkWdwqsEW3Vmg5aw>
   
