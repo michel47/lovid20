@@ -162,3 +162,4 @@ git push
 echo $tic: $qm >> $HOME/etc/mutables/lovid.log
 # -------------------------
 echo "url: https://michel47.github.io/lovid20"
+echo "upgraded: $upgraded"

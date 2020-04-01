@@ -1,5 +1,6 @@
 ## LOVID-20: Making Love Viral, (Humanity Love Progression Meter)
 
+- \[04/01/20]: 2967/17137 cases [QmPQjTzBibsqS6Ukp2Gf2btRJKxt71fErRDJ4gSnY49qYV](https://cloudflare-ipfs.com/ipfs/QmPQjTzBibsqS6Ukp2Gf2btRJKxt71fErRDJ4gSnY49qYV) [data](/ipfs/QmSjnWnbZkcK1Yx758YmKmTe3c9cx1pL7rU6ETDwQgk7nG/lovid.dat),[csv](/ipfs/QmSjnWnbZkcK1Yx758YmKmTe3c9cx1pL7rU6ETDwQgk7nG/lovid.csv)
 - \[03/30/20]: 1595/14829 cases [QmWDfkPFok3HCLBMpa4JK893xPsRDpZu8XF8wsgEZ4gbzy](https://cloudflare-ipfs.com/ipfs/QmWDfkPFok3HCLBMpa4JK893xPsRDpZu8XF8wsgEZ4gbzy) [data](/ipfs/Qmev91w4hGzYtgmfpdqzReBZtgXMsqVvihN14GUsGtLCrS/lovid.dat),[csv](/ipfs/Qmev91w4hGzYtgmfpdqzReBZtgXMsqVvihN14GUsGtLCrS/lovid.csv)
 - \[03/29/20]: 1530/14076cases [QmYyAknq1Krav4RqBjW4UvxRJgpqqQs5c8swMwFBheLFTP](https://cloudflare-ipfs.com/ipfs/QmYyAknq1Krav4RqBjW4UvxRJgpqqQs5c8swMwFBheLFTP) [data](/ipfs/QmQMTwWznXAVKpVS32LPpp76NFoiiKt4wS5vWJiDTJTgh6/lovid.dat),[csv](/ipfs/QmQMTwWznXAVKpVS32LPpp76NFoiiKt4wS5vWJiDTJTgh6/lovid.csv)
 - \[03/29/20]: 1530/14076cases [QmUt3kGjnXodZAPGB32FApRBLeACR7vqQeUkekAZFMm8Kg](https://cloudflare-ipfs.com/ipfs/QmUt3kGjnXodZAPGB32FApRBLeACR7vqQeUkekAZFMm8Kg) [data](/ipfs/QmcHFLxUpUHwPSo46HFcT73Pd8dJw5hUkhG3anbee9srfi/lovid.dat),[csv](/ipfs/QmcHFLxUpUHwPSo46HFcT73Pd8dJw5hUkhG3anbee9srfi/lovid.csv)
